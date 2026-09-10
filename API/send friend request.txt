@@ -1,0 +1,17 @@
+https://youtu.be/Kq-9_Jgxa-o?si=x-kWjgLBRRebU02P 
+solve chapta
+
+Headers
+
+Request URL:
+https://discord.com/api/v9/users/@me/relationships/700398313005908079
+Request Method:
+PUT
+Status Code:
+204 No Content
+Remote Address:
+162.159.135.232:443
+
+no paylaod
+
+

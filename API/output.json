@@ -1,0 +1,440 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <!-- Meta, title, CSS, favicons, etc. -->
+    <meta charset="utf-8">
+    <title></title>
+    <meta name="description" content=''>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    <link rel="shortcut icon" type="image/x-icon" href="/templates/site/img/favicon.ico">
+
+    <!-- Font CSS (Via CDN) -->
+    <link rel='stylesheet' type='text/css' href='https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700'>
+
+    <link href="/templates/site/css/fonts/glyphicons/glyphicons.css" rel="stylesheet" type="text/css" ><link href="/templates/site/assets/fonts/glyphicons-pro/glyphicons-pro.css" rel="stylesheet" type="text/css" ><link href="/templates/site/assets/fonts/icomoon/icomoon.css" rel="stylesheet" type="text/css" ><link href="/templates/site/assets/fonts/iconsweets/iconsweets.css" rel="stylesheet" type="text/css" ><link href="/templates/site/assets/fonts/octicons/octicons.css" rel="stylesheet" type="text/css" ><link href="/templates/site/assets/fonts/stateface/stateface.css" rel="stylesheet" type="text/css" ><link href="/templates/site/assets/skin/default_skin/css/theme.min.css" rel="stylesheet" type="text/css" ><link href="/templates/site/assets/admin-tools/admin-forms/css/admin-forms.min.css" rel="stylesheet" type="text/css" ><link href="/templates/site/assets/new/style.css" rel="stylesheet" type="text/css" >    <!-- Favicon -->
+<!--    <link rel="shortcut icon" href="assets/img/favicon.ico">-->
+    <!--[if lt IE 9]>-->
+    <script src="https://code.jquery.com/jquery-1.11.3.js"></script>
+    <!--<![endif]-->
+    <!--[if IE 9]>-->
+    <script src="/templates/site/vendor/jquery/jquery_ui/jquery-ui.min.js"></script>
+    <!--<![endif]-->
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+    <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+    <script src="https://oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>
+    <![endif]-->
+    <script src="/mf/js/fly.js"></script>
+    <script src="/mf/js/fly.lang.js"></script>
+    <script type="text/javascript" src="/tmp/js/3837126cf9bcdb3b70b54182a2c0fd73.js"></script>
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1004199402074308"
+            crossorigin="anonymous"></script>
+</head>
+
+<body class="tables-basic-page" data-spy="scroll" data-target="#nav-spy" data-offset="80">
+
+<!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-MHBBKC"
+                  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+        new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+        j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+        '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-MHBBKC');</script>
+<!-- End Google Tag Manager -->
+
+<!-- Start: Main -->
+<div id="main">
+
+    <!-- Start: Header -->
+    <header class="navbar navbar-fixed-top">
+        <div class="navbar-branding">
+            <a class="navbar-brand" href="/">
+                <b>IPleak</b>.com
+            </a>
+            <span id="toggle_sidemenu_l" class="ad ad-lines"></span>
+        </div>
+        <form class="navbar-form navbar-left navbar-search" role="search" id="searchByIP">
+            <div class="form-group">
+                <input type="text" class="form-control" placeholder="Search IP-address..." value="">
+                <button type="submit" class="button btn btn-sm search-button">
+                    <i class="fa fa-search"></i>
+                </button>
+            </div>
+        </form>
+        <ul class="nav navbar-nav navbar-right">
+            <li class="dropdown">
+                <a class="dropdown-toggle" data-toggle="dropdown" href="javascript:void(0)" aria-expanded="false">
+                    <img src="/templates/site/img/flags/shiny/16/US.png" class="flag-img"> <span class="langNameText">English</span>
+                </a>
+                <ul class="dropdown-menu pv5 animated animated-short flipInX" role="menu">
+                                            <li>
+                            <a href="/">
+                                <img src="/templates/site/img/flags/shiny/16/US.png" class="flag-img mr5"> English                            </a>
+                        </li>
+                                            <li>
+                            <a href="/ru/">
+                                <img src="/templates/site/img/flags/shiny/16/RU.png" class="flag-img mr5"> Russian                            </a>
+                        </li>
+                                    </ul>
+            </li>
+        </ul>
+
+    </header>
+    <!-- End: Header -->
+
+    <section id="content_wrapper_for_links">
+        <div class="container shortMainReportBl">
+
+            <div class="row">
+                <div class="col-md-12">
+                <span id="ip-info">
+                    <h1>IP Leak privacy test: IP-address, DNS, WebRTC and others</h1>
+                </span>
+                </div>
+            </div>
+
+            <!--<div class="col-md-6">-->
+    
+    <div class="panel" id="ip-info1">
+
+            <div class="panel-heading">
+                <span class="panel-title">
+                    <span class="imoon imoon-info"></span>
+                    <span>IP address &nbsp;149.255.229.16</span>
+                </span>
+            </div>
+            <div class="panel-body">
+                <ul class="nav nav-tabs">
+                    <li class="active"><a href="javascript:void(0)" data-id="#maxmind">Maxmind</a></li>
+                    <li><a href="javascript:void(0)" data-id="#DB-IP">DB-IP</a></li>
+                </ul>
+                <div class="tab-content">
+                    <div class="tab-pane active" id="maxmind">
+                        <table class="table table-striped">
+                                                            <tr>
+                                    <td><button class="buttonAsDefaultText" data-container="body" data-toggle="popover" data-placement="top" data-content="<p>This is your unique numeric identifier on the Internet, normally visible to any website you visit.</p>
+<p>To hide your real IP address, we recommend using special utilities like the <a href='https://privatix.com' target='_blank'>Privatix plug-in</a>.</p>
+<p><strong><a href='/articles/ip-address-information-how-to-check-and-how-to-hide' target='_blank'>Read more about IP address</a></strong> ...</p>" data-original-title="IP Address" aria-describedby="popover729422">IP Address</button></td>
+                                                                            <td><a href="https://ipleak.com/ip-address-lookup/149.255.229.16">149.255.229.16</a> <img src="/templates/site/img/flags/shiny/16/IQ.png" class="flag-img">&nbsp;<span class="ip-address-country">Iraq</span></td>
+                                                                    </tr>
+                                                            <tr>
+                                    <td><button class="buttonAsDefaultText" data-container="body" data-toggle="popover" data-placement="top" data-content="<p>An IP address can fall under one of the following types: IPv4 or IPv6.</p>
+<p><strong><a href='/articles/ip-address-information-how-to-check-and-how-to-hide' target='_blank'>Read more about IP address types</a></strong> ...</p>
+" data-original-title="Address type" aria-describedby="popover729422">Address type</button></td>
+                                                                            <td>IPv4</td>
+                                                                    </tr>
+                                                            <tr>
+                                    <td><button class="buttonAsDefaultText" data-container="body" data-toggle="popover" data-placement="top" data-content="A hostname is a unique nickname of device on the Internet that can be indicative of your Internet provider and location (a country or a city)." data-original-title="Hostname" aria-describedby="popover729422">Hostname</button></td>
+                                                                            <td>149.255.229.16</td>
+                                                                    </tr>
+                                                            <tr>
+                                    <td><button class="buttonAsDefaultText" data-container="body" data-toggle="popover" data-placement="top" data-content="<p>It's your Internet Service Provider.</p>
+<p>By hiding real IP address, you make your Internet provider details inaccessible for third parties as well.</p>
+<p><strong><a href='/articles/ip-geolocation-and-how-to-hide-real-location' target='_blank'>Read more</a></strong> ...</p>" data-original-title="ISP" aria-describedby="popover729422">ISP</button></td>
+                                                                            <td>EarthLink Iraq</td>
+                                                                    </tr>
+                                                            <tr>
+                                    <td><button class="buttonAsDefaultText" data-container="body" data-toggle="popover" data-placement="top" data-content="<p>Registering Organization of your Internet Service Provider.</p>
+<p>By hiding real IP address, you make organization details inaccessible for third parties as well.</p>
+<p><strong><a href='/articles/ip-geolocation-and-how-to-hide-real-location' target='_blank'>Read more</a>&nbsp;...</strong></p>" data-original-title="Organization" aria-describedby="popover729422">Organization</button></td>
+                                                                            <td>EarthLink Iraq</td>
+                                                                    </tr>
+                                                            <tr>
+                                    <td><button class="buttonAsDefaultText" data-container="body" data-toggle="popover" data-placement="top" data-content="<p>An IP pool is a range of IP addresses utilized by your Internet provider and grouped by sub-networks. Your IP address is assigned from that range, too.</p>
+<p><strong><a href='/articles/ip-geolocation-and-how-to-hide-real-location' target='_blank'>Read more</a></strong> ...</p>" data-original-title="IP Pool" aria-describedby="popover729422">IP Pool</button></td>
+                                                                            <td>149.255.228.0 - 149.255.231.255</td>
+                                                                    </tr>
+                                                            <tr>
+                                    <td><button class="buttonAsDefaultText" data-container="body" data-toggle="popover" data-placement="top" data-content="<p>It's your time zone which determined by an IP address using IP geolocation.</p>
+<p>If you connect through VPN/Proxy, your system time and a VPN/Proxy can differ, which can endanger your anonymity.</p>
+<p><strong><a href='/articles/ip-geolocation-and-how-to-hide-real-location' target='_blank'>Read more about IP Geolocation</a></strong>&nbsp;...</p>" data-original-title="Timezone" aria-describedby="popover729422">Timezone</button></td>
+                                                                            <td>Asia/Baghdad (UTC+3)</td>
+                                                                    </tr>
+                                                            <tr>
+                                    <td><button class="buttonAsDefaultText" data-container="body" data-toggle="popover" data-placement="top" data-content="<p>This is your local time on device accessible for view by all websites.</p>" data-original-title="Local time" aria-describedby="popover729422">Local time</button></td>
+                                                                            <td class="localtime"></td>
+                                                                    </tr>
+                                                            <tr>
+                                    <td><button class="buttonAsDefaultText" data-container="body" data-toggle="popover" data-placement="top" data-content="<p>Your country determined by IP address.</p>
+<p>We recommend you to hide real IP address to keep secret you real geographical location.</p>
+<p><strong><a href='/articles/ip-geolocation-and-how-to-hide-real-location' target='_blank'>Read more</a></strong> ...</p>" data-original-title="Country" aria-describedby="popover729422">Country</button></td>
+                                                                            <td>Iraq&nbsp;<img src="/templates/site/img/flags/shiny/16/IQ.png" class="flag-img"></td>
+                                                                    </tr>
+                                                            <tr>
+                                    <td><button class="buttonAsDefaultText" data-container="body" data-toggle="popover" data-placement="top" data-content="<p>Your State / Region determined by IP address.</p>
+<p>We recommend you to hide real IP address to keep secret you real geographical location.</p>
+<p><strong><a href='/articles/ip-geolocation-and-how-to-hide-real-location' target='_blank'>Read more</a></strong> ...</p>
+" data-original-title="State / Region" aria-describedby="popover729422">State / Region</button></td>
+                                                                            <td>Al Basrah</td>
+                                                                    </tr>
+                                                            <tr>
+                                    <td><button class="buttonAsDefaultText" data-container="body" data-toggle="popover" data-placement="top" data-content="<p>Your City determined by IP address.</p>
+<p>We recommend you to hide real IP address to keep secret you real geographical location.</p>
+<p><strong><a href='/articles/ip-geolocation-and-how-to-hide-real-location' target='_blank'>Read more</a></strong> ...</p>
+" data-original-title="City" aria-describedby="popover729422">City</button></td>
+                                                                            <td>Basra</td>
+                                                                    </tr>
+                                                            <tr>
+                                    <td><button class="buttonAsDefaultText" data-container="body" data-toggle="popover" data-placement="top" data-content="<p>Your Coordinates determined by IP address.</p>
+<p>We recommend you to hide real IP address to keep secret you real geographical location.</p>
+<p><strong><a href='/articles/ip-geolocation-and-how-to-hide-real-location' target='_blank'>Read more</a></strong> ...</p>
+" data-original-title="Coordinates" aria-describedby="popover729422">Coordinates</button></td>
+                                                                            <td>30.494199752808, 47.819198608398</td>
+                                                                    </tr>
+                                                            <tr>
+                                    <td><button class="buttonAsDefaultText" data-container="body" data-toggle="popover" data-placement="top" data-content="Here you can find out information about your country including its name, region, capital city, language, area, population, international dialing code, currency and a country domain." data-original-title="Country Information" aria-describedby="popover729422">Country Information</button></td>
+                                                                            <td><a href="javascript:;" onClick="$('#showCountryInfo').click();">Show</a></td>
+                                                                    </tr>
+                                                            <tr>
+                                    <td>Connection type</td>
+                                                                            <td>cable or DSL</td>
+                                                                    </tr>
+                                                    </table>
+                    </div>
+                    <div class="tab-pane" id="DB-IP">
+                        <table class="table table-striped">
+                            <tr><td><button class="buttonAsDefaultText" data-container="body" data-toggle="popover" data-placement="top" data-content="<p>This is your unique numeric identifier on the Internet, normally visible to any website you visit.</p>
+<p>To hide your real IP address, we recommend using special utilities like the <a href='https://privatix.com' target='_blank'>Privatix plug-in</a>.</p>
+<p><strong><a href='/articles/ip-address-information-how-to-check-and-how-to-hide' target='_blank'>Read more about IP address</a></strong> ...</p>" data-original-title="IP Address" aria-describedby="popover729422">IP Address</button></td><td><a href="https://ipleak.com/ip-address-lookup/149.255.229.16">149.255.229.16</a>                                    <img src="/templates/site/img/flags/shiny/16/IQ.png" class="flag-img">&nbsp;<span class="ip-address-country">Iraq</span></td></tr>
+                            <tr><td><button class="buttonAsDefaultText" data-container="body" data-toggle="popover" data-placement="top" data-content="<p>An IP address can fall under one of the following types: IPv4 or IPv6.</p>
+<p><strong><a href='/articles/ip-address-information-how-to-check-and-how-to-hide' target='_blank'>Read more about IP address types</a></strong> ...</p>
+" data-original-title="Address type" aria-describedby="popover729422">Address type</button></td><td>IPv4</td></tr>
+                            <tr><td><button class="buttonAsDefaultText" data-container="body" data-toggle="popover" data-placement="top" data-content="A hostname is a unique nickname of device on the Internet that can be indicative of your Internet provider and location (a country or a city)." data-original-title="Hostname" aria-describedby="popover729422">Hostname</button></td><td>149.255.229.16</td></tr>
+                            <tr><td><button class="buttonAsDefaultText" data-container="body" data-toggle="popover" data-placement="top" data-content="<p>It's your Internet Service Provider.</p>
+<p>By hiding real IP address, you make your Internet provider details inaccessible for third parties as well.</p>
+<p><strong><a href='/articles/ip-geolocation-and-how-to-hide-real-location' target='_blank'>Read more</a></strong> ...</p>" data-original-title="ISP" aria-describedby="popover729422">ISP</button></td><td>
+                                    <a href="/ip-address-lookup-by-isp/EarthLink+Telecommunications"  title="All IP addresses of EarthLink Telecommunications">EarthLink Telecommunications</a>
+                                </td></tr>
+                                                                                        <tr><td><button class="buttonAsDefaultText" data-container="body" data-toggle="popover" data-placement="top" data-content="<p>Registering Organization of your Internet Service Provider.</p>
+<p>By hiding real IP address, you make organization details inaccessible for third parties as well.</p>
+<p><strong><a href='/articles/ip-geolocation-and-how-to-hide-real-location' target='_blank'>Read more</a>&nbsp;...</strong></p>" data-original-title="Organization" aria-describedby="popover729422">Organization</button></td><td>
+                                        <a href="/ip-address-lookup-by-organization/EarthLink+Ltd." title="All IP addresses of EarthLink Ltd.">EarthLink Ltd.</a>
+                                    </td></tr>
+                                                        <tr>
+                                <td><button class="buttonAsDefaultText" data-container="body" data-toggle="popover" data-placement="top" data-content="<p>An IP pool is a range of IP addresses utilized by your Internet provider and grouped by sub-networks. Your IP address is assigned from that range, too.</p>
+<p><strong><a href='/articles/ip-geolocation-and-how-to-hide-real-location' target='_blank'>Read more</a></strong> ...</p>" data-original-title="IP Pool" aria-describedby="popover729422">IP Pool</button></td>
+                                <td>
+                                    149.255.228.0 - 149.255.231.255                                </td>
+                            </tr>
+                            <tr><td><button class="buttonAsDefaultText" data-container="body" data-toggle="popover" data-placement="top" data-content="<p>It's your time zone which determined by an IP address using IP geolocation.</p>
+<p>If you connect through VPN/Proxy, your system time and a VPN/Proxy can differ, which can endanger your anonymity.</p>
+<p><strong><a href='/articles/ip-geolocation-and-how-to-hide-real-location' target='_blank'>Read more about IP Geolocation</a></strong>&nbsp;...</p>" data-original-title="Timezone" aria-describedby="popover729422">Timezone</button></td><td>Asia/Baghdad (UTC+3)                                    <span class="pull-right isp-org">
+                                    <a href="/isp-list-in-time-zone/Asia%2FBaghdad" title="List of ISP in timezone Asia/Baghdad">
+                                        <span class="isp-text">ISP</span>
+                                    </a>|<a href="/organization-list-in-time-zone/Asia%2FBaghdad" title="List of organizations in timezone Asia/Baghdad">
+                                            <span class="org-text">ORG</span>
+                                        </a>
+                                </span>
+                            </td></tr>
+                            <tr><td><button class="buttonAsDefaultText" data-container="body" data-toggle="popover" data-placement="top" data-content="<p>This is your local time on device accessible for view by all websites.</p>" data-original-title="Local time" aria-describedby="popover729422">Local time</button></td><td id="localtime" data-offset="3"></td></tr>
+                                                            <tr>
+                                    <td><button class="buttonAsDefaultText" data-container="body" data-toggle="popover" data-placement="top" data-content="<p>Your country determined by IP address.</p>
+<p>We recommend you to hide real IP address to keep secret you real geographical location.</p>
+<p><strong><a href='/articles/ip-geolocation-and-how-to-hide-real-location' target='_blank'>Read more</a></strong> ...</p>" data-original-title="Country" aria-describedby="popover729422">Country</button></td><td>Iraq&nbsp; <img src="/templates/site/img/flags/shiny/16/IQ.png" class="flag-img">
+                                    <span class="pull-right isp-org">
+                                        <a href="/isp-list-in-country/IQ" title="List of ISP in Iraq">
+                                            <span class="isp-text">ISP</span>
+                                        </a>|<a href="/organization-list-in-country/IQ" title="List of organizations in Iraq">
+                                            <span class="org-text">ORG</span>
+                                        </a>
+                                    </span>
+                                    </td>
+                                </tr>
+                                                        <tr><td><button class="buttonAsDefaultText" data-container="body" data-toggle="popover" data-placement="top" data-content="<p>Your State / Region determined by IP address.</p>
+<p>We recommend you to hide real IP address to keep secret you real geographical location.</p>
+<p><strong><a href='/articles/ip-geolocation-and-how-to-hide-real-location' target='_blank'>Read more</a></strong> ...</p>
+" data-original-title="State / Region" aria-describedby="popover729422">State / Region</button></td><td>Baghdād                                    <span class="pull-right isp-org">
+                                    <a href="/isp-list-in-state/Baghd%C4%81d" title="List of ISP in Baghdād">
+                                        <span class="isp-text">ISP</span>
+                                    </a>|<a href="/organization-list-in-state/Baghd%C4%81d" title="List of organizations in Baghdād">
+                                            <span class="org-text">ORG</span>
+                                        </a>
+                                </span>
+                                </td></tr>
+                            <tr><td><button class="buttonAsDefaultText" data-container="body" data-toggle="popover" data-placement="top" data-content="<p>Your City determined by IP address.</p>
+<p>We recommend you to hide real IP address to keep secret you real geographical location.</p>
+<p><strong><a href='/articles/ip-geolocation-and-how-to-hide-real-location' target='_blank'>Read more</a></strong> ...</p>
+" data-original-title="City" aria-describedby="popover729422">City</button></td><td>Baghdad                                    <span class="pull-right isp-org">
+                                    <a href="/isp-list-in-city/Baghdad" title="List of ISP in Baghdad">
+                                        <span class="isp-text">ISP</span>
+                                    </a>|<a href="/organization-list-in-city/Baghdad" title="List of organizations in Baghdad">
+                                            <span class="org-text">ORG</span>
+                                        </a>
+                                </span>
+                                </td></tr>
+                            <tr><td><button class="buttonAsDefaultText" data-container="body" data-toggle="popover" data-placement="top" data-content="<p>Your Coordinates determined by IP address.</p>
+<p>We recommend you to hide real IP address to keep secret you real geographical location.</p>
+<p><strong><a href='/articles/ip-geolocation-and-how-to-hide-real-location' target='_blank'>Read more</a></strong> ...</p>
+" data-original-title="Coordinates" aria-describedby="popover729422">Coordinates</button></td><td>33.325, 44.422</td></tr>
+                            <!--<tr>
+                                <td>IP_Info_Whois</td>
+                                <td><a href="javascript:;" id="showWhois">Show</a></td>
+                            </tr>-->
+                            <tr>
+                                <td><button class="buttonAsDefaultText" data-container="body" data-toggle="popover" data-placement="top" data-content="Here you can find out information about your country including its name, region, capital city, language, area, population, international dialing code, currency and a country domain." data-original-title="Country Information" aria-describedby="popover729422">Country Information</button></td>
+                                <td><a href="javascript:;" id="showCountryInfo" data-country="Iraq">Show</a></td>
+                            </tr>
+                        </table>
+                    </div>
+                </div>
+            </div>
+<!--        </div>-->
+    
+<script>
+
+var black_list;
+var black_list_check=[];
+var black_list_psevd_id=[];
+var black_list_info=[];
+var check_step=0;
+
+jQuery(document).ready(function(){
+    $('.nav-tabs a').click(function(){
+        var id=$(this).data('id');
+        $('.tab-content .tab-pane').removeClass('active');
+        $('.nav-tabs li').removeClass('active');
+        $(this).parent('li').addClass('active');
+        $(id).addClass('active');
+    });
+    DSTObj.updateLocalTime();
+	window.setInterval(DSTObj.updateLocalTime,1000);
+
+	$('#showWhois').click(function(){
+    	$.ajax('/?ns=coms.ip&action=geo&sb=whois&ip=149.255.229.16',{
+    		    success:function(d){
+    			    if (d.status==200){
+    				    $('#whoisModalBody').html(d.data.info);
+    				    $('#whoisModalTitle').html('Whois for 149.255.229.16');
+    				    $('#whoisModal').modal();
+    			    }
+    			  }
+    		});
+	});
+    $('#showCountryInfo').click(function(){
+        $.ajax('https://restcountries.com/v2/name/Iraq',{
+                success:function(data){
+
+                        var CountryInfoContent = '';
+                        CountryInfoContent += "Name" + ': ' +data[0].name+'<br>';
+                        CountryInfoContent += "Region" + ': ' +data[0].region+'<br>';
+                        CountryInfoContent += "Subregion" + ': ' +data[0].subregion+'<br>';
+                        CountryInfoContent += "Capital" + ': ' +data[0].capital+'<br>';
+                        CountryInfoContent += "Language" + ': ' +data[0].languages[0].name+' ('+data[0].languages[0].iso639_1+')'+'<br>';
+                        CountryInfoContent += "Area" + ': ' +data[0].area+'<br>';
+                        CountryInfoContent += "Population" + ': ' +data[0].population+'<br>';
+                        CountryInfoContent += "Phone Code" + ': +' +data[0].callingCodes[0]+'<br>';
+                        CountryInfoContent += "Currency" + ': ' +data[0].currencies[0].name+' ('+data[0].currencies[0].code+')'+'<br>';
+                        CountryInfoContent += "Top Level Domain" + ': ' +data[0].topLevelDomain[0];
+
+
+                        $('#whoisModalBody').html(CountryInfoContent);
+                        $('#whoisModalTitle').html("Country Information");
+                        $('#whoisModal').modal();
+
+                  },error:function(){
+
+                  }
+            });
+    });
+});
+</script>
+
+<!-- Modal -->
+<div class="modal fade" id="whoisModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+        <h4 class="modal-title" id="whoisModalTitle"></h4>
+      </div>
+      <div class="modal-body" id="whoisModalBody">
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+    </div>
+
+
+            <div class="row">
+                <div class="col-md-12">
+                    <a href="/full-report" class="btn btn-hover btn-default btn-block fullReportBtn"> <span class="FullReportArrows">&rarr;</span> IP LEAK REPORT &larr; </a>
+                </div>
+            </div>
+
+            <div class="ipInfo1BannerWrap">
+                <div class="ipInfo1Banner">
+                </div>
+            </div>
+
+        </div>
+
+<footer id="content-footer">
+    <div class="row">
+        <div class="col-md-6 col-sm-6 col-xs-4">
+            <span class="footer-legal">Made with &#9829; Privatix</span>
+        </div>
+        <div class="col-md-6 col-sm-6 col-xs-8 text-right">
+            <span class="footer-meta">
+
+                <a href="https://temp-number.org" target="_blank" class="footer-link">Temp SMS Number</a> |
+                <a href="https://whatismynumber.com" target="_blank" class="footer-link">What is my phone number</a> |
+                <a href="https://10minemail.com" target="_blank" class="footer-link">10minutemail</a> |
+                <a href="/articles" class="footer-link">Articles</a> |
+                <a href="/internet-service-providers" class="footer-link">ISP</a> |
+                <a href="/ip-owners-organizations" class="footer-link">ORG</a> |
+                <a href="/contacts/" class="footer-link">Contacts</a> |
+                <a href="/privacy-policy/"  class="footer-link">Privacy</a> |
+                <a href="/terms-of-service/"  class="footer-link">Terms</a>
+            </span>
+            <a href="#content" class="footer-return-top">
+                <span class="fa fa-arrow-up"></span>
+            </a>
+        </div>
+    </div>
+</footer>
+
+</section>
+</div>
+
+<script type="text/javascript">
+$(document).ready(function(){
+
+    if (typeof script_warning !== 'undefined') {
+        // Add warning info labels
+        if ($(".doNotTrackInfo").data('enabled') == 0) {
+            $(".doNotTrackInfo").append('<span class="label-warning empty-label-warning"></span>');
+            script_warning.add_info('Do not trach disabled', '.scripts_info');
+        }
+        if ($(".turbo").data('turbo') == 1) {
+            $(".turbo").append('<span class="label-warning empty-label-warning"></span>');
+            script_warning.add_info('No turbo', '.privacy_info');
+        }
+        if ($(".vpn-link").text()!='' && $(".vpn-link").text() != 'Ethernet or modem') {
+            $(".vpn").append('<span class="label-warning empty-label-warning"></span>');
+            script_warning.add_info('VPN not Ethernet or modem', '.privacy_info');
+        }
+
+        // Add danger warning labels
+        if ($(".tor").data('tor') == 1) {
+            $(".tor").append('<span class="label-danger empty-label-danger"></span>');
+            script_warning.add_warning('Privacy', 'Tor enabled', '.privacy_warning');
+        }
+    }
+});
+</script>
+
+<!-- BEGIN: PAGE SCRIPTS -->
+<!-- END: PAGE SCRIPTS -->
+
+</body>
+
+</html>
+
