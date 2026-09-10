@@ -1,0 +1,5 @@
+window = ("900x700")
+
+reslut label    = hight =241  ,width = 728
+show button = hight =50    ,width  = 98
+copy button  = hight =74    ,width  = 229
